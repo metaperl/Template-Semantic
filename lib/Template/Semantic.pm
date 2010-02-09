@@ -204,7 +204,7 @@ See L</Filter> section.
 
 Use XPath expression or CSS selector as a selector.
 
-  print Tempalte::Semantic->process($template, {
+  print Template::Semantic->process($template, {
       
       # XPath sample that indicate tag:
       '/html/body/h2[2]' => ...,
