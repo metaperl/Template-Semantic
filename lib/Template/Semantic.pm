@@ -106,8 +106,8 @@ output:
       <body>
           <h1>Naoki Tomita</h1>
           <ul class="urls">
-              <li><a href="http://e8y.net/">Homepage &gt;</a></li>
-              <li><a href="http://twitter.com/tomita/" targer="_blank">Twitter &gt;</a></li>
+              <li><a href="http://e8y.net/">Homepage</a></li>
+              <li><a href="http://twitter.com/tomita/" target="_blank">Twitter</a></li>
           </ul>
       </body>
   </html>
